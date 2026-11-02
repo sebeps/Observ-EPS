@@ -1,0 +1,17 @@
+{
+  "name": "Obs'EPS – Observation et suivi en EPS",
+  "short_name": "Obs'EPS",
+  "description": "Observation paramétrable et suivi des élèves en EPS, par leçon et par classe — hors-ligne, échanges entre tablettes par QR code",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6fa",
+  "theme_color": "#0f3d6e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
